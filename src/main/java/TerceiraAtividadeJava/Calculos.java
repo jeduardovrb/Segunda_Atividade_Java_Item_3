@@ -49,7 +49,7 @@ public class Calculos {
 
     // método para imprimir o resultado
     public void Resultado() {
-        double vArray[] = {600, 470, 170, 430, 300};
+        double vArray[] = {3,5,7,9,10,12,17};
     
 	System.out.println("Resultado do somatório.....: " + this.soma(vArray));    
 	System.out.println("Resultado da média é.......: " + this.media(vArray));    
